@@ -8,16 +8,16 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Hey everyone welcome to Vue. Welcome to slackers!
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
+        <a className="App-link"
+           href="https://reactjs.org"
+           target="_blank"
+           rel="noopener noreferrer">
+
+          Learn Vue.js
         </a>
+
       </header>
     </div>
   );
